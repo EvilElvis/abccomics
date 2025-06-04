@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>ABC Comics &amp; Eclipse Quadrinhos</title>
+	<atom:link href="https://abccomics.com.br/?feed=rss2" rel="self" type="application/rss+xml" />
+	<link>https://abccomics.com.br</link>
+	<description>ABC Comics está de Volta e com Surpresas</description>
+	<lastBuildDate>Fri, 24 Jun 2022 20:26:14 +0000</lastBuildDate>
+	<language>pt-BR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.12</generator>
+
+<image>
+	<url>https://abccomics.com.br/wp-content/uploads/2022/06/cropped-Capitao-32x32.png</url>
+	<title>ABC Comics &amp; Eclipse Quadrinhos</title>
+	<link>https://abccomics.com.br</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Novo Local do Evento</title>
+		<link>https://abccomics.com.br/?p=84</link>
+					<comments>https://abccomics.com.br/?p=84#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Fri, 24 Jun 2022 19:51:40 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">http://abccomics.com.br/?p=84</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>https://abccomics.com.br/?feed=rss2&#038;p=84</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Em breve retornaremos com novidades aguardamos todos neste novo encontro</title>
+		<link>https://abccomics.com.br/?p=1</link>
+					<comments>https://abccomics.com.br/?p=1#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Tue, 10 May 2016 03:48:21 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">http://abccomics.com.br/?p=1</guid>
+
+					<description><![CDATA[Nossa equipe está ansiosamente trabalhando para trazer novamente o ABC Comics para vocês. Este ano o Grupo Eclipse comemora 20 anos do primeiro ABC Comics e teremos um evento imperdível, aguardem.]]></description>
+										<content:encoded><![CDATA[<p>Nossa equipe está ansiosamente trabalhando para trazer novamente o ABC Comics para vocês.</p>
+<p>Este ano o Grupo Eclipse comemora 20 anos do primeiro ABC Comics e teremos um evento imperdível, aguardem.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://abccomics.com.br/?feed=rss2&#038;p=1</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
